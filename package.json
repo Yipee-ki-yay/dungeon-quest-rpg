@@ -1,8 +1,13 @@
 {
   "name": "dungeon-quest-rpg",
   "private": true,
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "description": "The dungeon-quest-rpg is a simple, lightweight vanilla JavaScript game based on FreeCodeCamp course. It could be embeded to the page to add some oomph to it.",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yipee-ki-yay/dungeon-quest-rpg"
+  },
   "files": ["dist"],
   "main": "./dist/dungeon-quest-rpg.umd.cjs",
   "module": "./dist/dungeon-quest-rpg.js",
@@ -21,5 +26,15 @@
     "sass": "^1.77.2",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
-  }
+  },
+  "keywords": [
+    "game",
+    "dungeon",
+    "quest",
+    "rpg",
+    "embeded",
+    "javascript"
+  ],
+  "author": "Oleksandr Morozov",
+  "license": "ISC"
 }
