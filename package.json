@@ -1,6 +1,5 @@
 {
   "name": "dungeon-quest-rpg",
-  "private": true,
   "version": "1.0.0",
   "description": "The dungeon-quest-rpg is a simple, lightweight vanilla JavaScript game based on FreeCodeCamp course. It could be embeded to the page to add some oomph to it.",
   "type": "module",
